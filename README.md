@@ -8,9 +8,9 @@ Information on the tools, platforms and standards the Tools Collaboratory will s
 
 2. Tool findability and registries (Carole Goble)
 
-3. Address demonstrators from WP3 ()
+3. Address demonstrators from WP3 (Antonio Rosato and Jean-Karim Hériché)
 
-4. The Tools Collaboratory (Jean-Karim Heriche)
+4. The Tools Collaboratory (Jean-Karim Hériché)
 
 5. Sustainability (Gianluigi Zanetti/Luca Pireddu)
 
